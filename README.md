@@ -9,6 +9,10 @@ Some useful command
     
     git log: checking commit history
 
+    git fetch:command that tells your local git to retrieve the latest meta-data info from the original
+
+    
+
 Git problem
 
 1) common one so far
@@ -36,6 +40,12 @@ what happens:
 solution: 
 
     we have to fetch, merge the changeset, and then you'll be able to push again.
+
+    1) git fetch origin mian
+
+    2) git merge origin main  quick Note you probably have git merge conflict so go inside that file and fix it
+
+    3) Now you can do git add --all which add all your files to staging area, git commit -m"message" and git push
 
 2)
 
