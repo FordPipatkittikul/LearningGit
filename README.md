@@ -35,7 +35,11 @@ Problem:
 
 what happens:
 
-    the remote main branch has progressed(ล่าช้า) since you last pulled from it, so Git won't allow you to push your changes and overwrite the remote history. 
+    - You haven't made any local commits on your main branch
+    
+    - But new commits were pushed to the remote main branch by someone else
+    
+    - So your local main branch is now behind the remote 
 
 solution: 
 
