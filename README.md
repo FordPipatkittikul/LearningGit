@@ -3,13 +3,13 @@ Intro to git
     
     There are four phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
 
-Some useful command
+# Useful command
     
     git status: checking working Directory, Staging Area
     
     git log: checking commit history
 
-    git fetch:command that tells your local git to retrieve the latest meta-data info from the original
+    git fetch: command that tells your local git to retrieve the latest meta-data info from the original
 
     
 
