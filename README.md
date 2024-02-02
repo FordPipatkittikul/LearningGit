@@ -45,7 +45,7 @@ solution:
 
     we have to fetch, merge the changeset, and then you'll be able to push again.
 
-    1) git fetch origin mian
+    1) git fetch origin main
 
     2) git merge origin main  quick Note you probably have git merge conflict  
         
