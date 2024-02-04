@@ -14,8 +14,6 @@ Four stages
     
 
 # Git problem
-
-1) 
    
 Problem:
 
@@ -58,8 +56,7 @@ solution:
              >>>>>>> origin
 
     3) Now you can do git add --all which add all your files to staging area, git commit -m"message" and git push
-
-2) 
+ 
 
 Problem:
     
