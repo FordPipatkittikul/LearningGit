@@ -1,9 +1,19 @@
 # learning git
-Four stages
     
     There are four phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
 
-# Useful command for git
+## Basic command line
+    cd : change directory
+    
+    cd .. : change to previous directory
+
+    rm - fr <directory name> : remove directory
+
+    mkdir <directory name> : create directory
+
+    pwd : show path of working directory
+    
+## Useful command for git
     
     git status : checking working Directory, Staging Area
     
@@ -21,7 +31,7 @@ Four stages
 
     git checkout <namebranch> : change to the branches you wanna work on
 
-# Git problem
+## Git problem
    
 Problem:
 
