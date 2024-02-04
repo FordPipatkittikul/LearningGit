@@ -12,6 +12,10 @@
     mkdir <directory name> : create directory
 
     pwd : show path of working directory
+
+    ls : list all the files in that working directory
+
+    
     
 ## Useful command for git
     
