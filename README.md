@@ -1,5 +1,5 @@
 # Git stuff
-Intro to git
+Four stages
     
     There are four phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
 
@@ -15,7 +15,7 @@ Intro to git
 
 # Git problem
 
-1) common one so far
+1) 
    
 Problem:
 
@@ -47,7 +47,7 @@ solution:
 
     1) git fetch origin main
 
-    2) git merge origin main  quick Note you probably have git merge conflict  
+    2) git merge origin main  ****quick Note you probably have git merge conflict  
         
         2.1) so go inside that file and delete
 
@@ -59,7 +59,7 @@ solution:
 
     3) Now you can do git add --all which add all your files to staging area, git commit -m"message" and git push
 
-2) similar to first one
+2) 
 
 Problem:
     
