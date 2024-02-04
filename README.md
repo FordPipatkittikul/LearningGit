@@ -3,7 +3,7 @@ Four stages
     
     There are four phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
 
-# Useful command
+# Useful command for git
     
     git status : checking working Directory, Staging Area
     
@@ -19,7 +19,7 @@ Four stages
 
     git branch -a : list all the branches and check the current branch
 
-    git checkout
+    git checkout <namebranch> : change to the branches you wanna work on
 
 # Git problem
    
