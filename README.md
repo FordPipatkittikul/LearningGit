@@ -5,13 +5,21 @@ Four stages
 
 # Useful command
     
-    git status: checking working Directory, Staging Area
+    git status : checking working Directory, Staging Area
     
-    git log: checking commit history
+    git log : checking commit history
 
-    git fetch: command that tells your local git to retrieve the latest meta-data info from the original
+    git fetch : command that tells your local git to retrieve the latest meta-data info from the original
 
+    git remote -v : check our remote repository
+
+    git branch <namebranch> : create branch
     
+    git branch -d <namebranch> : delete branch
+
+    git branch -a : list all the branches and check the current branch
+
+    git checkout
 
 # Git problem
    
