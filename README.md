@@ -5,7 +5,7 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     
     cd .. : change to previous directory
 
-    touch: create new empty file
+    echo "some message" >> <filename.txt>: create filename(.txt file) and wrtie some message to that file
 
     rm - fr <directory name> : remove directory
 
