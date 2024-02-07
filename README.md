@@ -5,6 +5,8 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     
     cd .. : change to previous directory
 
+    touch: create new empty file
+
     rm - fr <directory name> : remove directory
 
     mkdir <directory name> : create directory
