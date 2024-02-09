@@ -37,6 +37,7 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
 ## Git problem
    
 Problem:
+
     ! [rejected]        main -> main (fetch first)
    
     error: failed to push some refs to 'your own git https'
