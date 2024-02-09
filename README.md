@@ -18,7 +18,6 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     
     
 ## Useful command for git
-    
     git status : checking working Directory, Staging Area
     
     git log : checking commit history
