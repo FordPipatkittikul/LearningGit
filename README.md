@@ -89,7 +89,6 @@ what happens:
     - In the meantime, new commits were pushed to the remote main branch by someone else
     
     - Your local main branch now has diverged from the remote main branch
-    
 solution:
 
     1) git fetch origin main
