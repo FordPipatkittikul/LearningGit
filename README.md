@@ -30,7 +30,6 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
 
     git checkout <namebranch> : change to the branches you wanna work on
 ## Git problem
-   
 Problem:
 
     ! [rejected]        main -> main (fetch first)
