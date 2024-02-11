@@ -52,7 +52,6 @@ what happens:
     - But new commits were pushed to the remote main branch by someone else
     
     - So your local main branch is now behind the remote 
-
 solution: 
 
     we have to fetch, merge the changeset, and then you'll be able to push again.
