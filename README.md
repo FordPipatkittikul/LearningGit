@@ -29,7 +29,6 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     git branch -a : list all the branches and check the current branch
 
     git checkout <namebranch> : change to the branches you wanna work on
-
 ## Git problem
    
 Problem:
@@ -47,7 +46,6 @@ Problem:
     hint: 'git pull' before pushing again.
     
     hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
 what happens:
 
     - You haven't made any local commits on your main branch
