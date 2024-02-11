@@ -13,8 +13,7 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     pwd : show path of working directory
 
     ls : list all the files in that working directory
-
-    
+ 
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
