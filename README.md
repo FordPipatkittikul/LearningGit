@@ -82,7 +82,6 @@ Problem:
     hint: use 'git pull' before pushing again.
     
     hint: See the 'Note about fast-forwards' in 'git push --help' for details.
-
 what happens:
 
     - You made commits to your local main branch
