@@ -1,5 +1,4 @@
 There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
-
 ## Basic command line
     cd : change directory
     
@@ -15,7 +14,6 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
 
     ls : list all the files in that working directory
 
-    
     
 ## Useful command for git
     git status : checking working Directory, Staging Area
