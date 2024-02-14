@@ -1,20 +1,22 @@
 There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
 ## Basic command line
-    cd : change directory
+    cd : Change directory
     
-    cd .. : change to previous directory
+    cd .. : Change to previous directory
 
     echo "some message" >> <target>: Append some message to target 
 
-    rm - fr <directory name> : remove directory
+    rm - fr <directory name> : Remove directory
 
-    mkdir <directory name> : create directory
+    mkdir <directory name> : Create a new directory
+    
+    ni <filename> : Create a new file
 
     pwd : Print the path of the current directory
 
-    ls : list all the files in that working directory
+    ls : List all the files in that working directory
 
-    clear : clear the terminal window
+    clear : Clear the terminal window
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
