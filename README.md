@@ -2,7 +2,7 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
 ## Basic command line
     cd : Change directory
     
-    cd .. : Change to previous directory
+    cd .. : Change to previous directoryy
 
     echo "some message" >> <target>: Append some message to target 
 
