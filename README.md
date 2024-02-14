@@ -10,9 +10,11 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
 
     mkdir <directory name> : create directory
 
-    pwd : show path of working directory
+    pwd : Print the path of the current directory
 
     ls : list all the files in that working directory
+
+    clear : clear the terminal window
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
