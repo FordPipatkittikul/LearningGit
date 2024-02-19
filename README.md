@@ -1,17 +1,27 @@
 There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
 ## Basic command line windows only
-    cd : Change directory
+    cd <directory> : Change directory
+    
+    cd ~ : go to user directory
     
     cd .. : Change to previous directory
 
     echo "some message" >> <target>: Append some message to target 
 
-    del - fr <directory name> : Remove directory
+    del - fr <directory> : Remove directory
+    
+    del <file> : Remove file name
+    
+    start <directory> : open sepcific directory
+    
+    start .	 : open directory we are currently in
     
     mkdir <directory name> : Create a new directory
     
     ni <filename> : Create a new file
 
+    rename <orignal name><name want to change>
+    
     pwd : Print the path of the current directory
 
     ls : List all the files in that working directory
