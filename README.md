@@ -6,7 +6,7 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     
     cd .. : Change to previous directory
 
-    echo "some message" >> <target>: Append some message to target 
+    echo "some message" >> <file>: Append some message to the file 
 
     del - fr <directory> : Remove directory
     
