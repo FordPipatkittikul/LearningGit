@@ -27,6 +27,8 @@ There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Re
     ls : List all the files in that working directory
 
     clear : Clear the terminal window
+
+    code . : open directory we are in as editor code
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
