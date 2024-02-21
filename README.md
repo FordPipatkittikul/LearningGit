@@ -1,4 +1,13 @@
-There are 4 phases in git: working Directory, Staging Area, Local Repositroy, Remote Repository.
+# Git terminology
+## stages
+    
+    working Directory
+    
+    Staging Area
+    
+    Local Repositroy
+    
+    Remote Repository.
 ## Basic command line for windows only
     cd <directory> : Change directory
     
