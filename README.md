@@ -38,6 +38,10 @@
     clear : Clear the terminal window
 
     code . : open directory we are in as editor code
+## mian or master
+back in the day, a lot of repo using master but nowadays they use main.
+
+
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
@@ -54,6 +58,14 @@
     git branch -a : list all the branches and check the current branch
 
     git checkout <namebranch> : change to the branches you wanna work on
+
+    git remote -v : lists all configured remote repositories for your local Git project, along with their corresponding URLs and any configured push/pull URLs.
+
+    git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git : To add a new remote repository to your local Git project
+
+    git pull upstream main : To pull everything from upstream repository to your local Git project
+    
+    
 ## Git problem
 Problem:
 
