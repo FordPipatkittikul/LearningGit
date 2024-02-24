@@ -64,8 +64,6 @@ back in the day, a lot of repo using master but nowadays they use main.
     git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git : To add a new remote repository to your local Git project
 
     git pull upstream main : To pull everything from upstream repository to your local Git project
-    
-    
 ## Git problem
 Problem:
 
