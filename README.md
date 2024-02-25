@@ -37,10 +37,6 @@
     clear : Clear the terminal window
 
     code . : open directory we are in as editor code
-## mian or master
-back in the day, a lot of repo using master but nowadays they use main.
-
-
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
