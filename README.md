@@ -1,5 +1,6 @@
 # Git terminology
 ## stages
+
     working Directory
     
     Staging Area
@@ -8,6 +9,7 @@
     
     Remote Repository.
 ## Basic command line for windows only
+
     cd <directory> : Change directory
     
     cd ~ : go to root directory
