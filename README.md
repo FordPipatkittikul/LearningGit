@@ -42,6 +42,7 @@
     clear : Clear the terminal window
 
     code . : open directory we are in as editor code
+    
 ## Useful command for git
     git status : checking working Directory, Staging Area
     
