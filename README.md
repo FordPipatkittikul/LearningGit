@@ -1,5 +1,4 @@
 # Git terminology
-
 ## Stages
 
     working Directory
