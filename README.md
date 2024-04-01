@@ -1,5 +1,4 @@
 # Git terminology
-
 ## Stages
 
     working Directory
@@ -65,7 +64,6 @@
     git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git : To add a new remote repository to your local Git project
     git remote remove upstream
     git remote remove origin
-    
     git pull upstream main : To pull everything from upstream repository to your local Git project
 ## Git problem
 Problem:
