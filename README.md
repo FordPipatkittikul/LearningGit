@@ -65,6 +65,8 @@
     git remote remove upstream
     git remote remove origin
     git pull upstream main : To pull everything from upstream repository to your local Git project
+
+    git log --merge : list all the commits casuing conflict
 ## Git problem
 Problem:
 
