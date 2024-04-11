@@ -1,6 +1,5 @@
 # Git terminology
 ## Stages
-
     working Directory
     
     Staging Area
