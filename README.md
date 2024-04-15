@@ -41,6 +41,8 @@
     code . : open directory we are in as editor code
     
 ## Useful command for git
+    git commit -m "Title" -m "Description"
+    
     git status : checking working Directory, Staging Area
     
     git log : checking commit history
