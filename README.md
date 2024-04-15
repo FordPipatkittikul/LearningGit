@@ -10,6 +10,7 @@
 
 ![gitindex](https://github.com/FordPipatkittikul/LearningGit/assets/121902625/7d148ce8-73b6-49d9-a543-466ff028ad52)
 ## Basic command line for windows only
+
     cd <directory> : Change directory
     
     cd ~ : go to root directory
