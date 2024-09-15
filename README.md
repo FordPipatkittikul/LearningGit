@@ -35,32 +35,34 @@
     
     pwd : Print the path of the current directory
 
-    ls : List all the files in that working directory
-
     clear : Clear the terminal window
 
     code . : open directory we are in as editor code
     
-## Useful command for git
+## basic git
+    git add --all
     git commit -m "for Title" -m "for Description"
-    
+    git push
+    git pull
     git status : checking working Directory, Staging Area
     
     git log : checking commit history
 
     git fetch : command that tells your local git to retrieve the latest meta-data info from the original
 
-    git remote -v : check our remote repository
-
-    git branch <namebranch> : create branch
-    
-    git branch -d <namebranch> : delete branch
-
-    git branch -a : list all the branches and check the current branch
-
-    git checkout <namebranch> : change to the branches you wanna work on
-
     git remote -v : lists all configured remote repositories for your local Git project, along with their corresponding URLs and any configured push/pull URLs.
+
+## branch
+    orign main refer tor main branch on remote rpo
+    git branch <namebranch> : create branch.
+    git branch -d <namebranch> : delete branch.
+    git branch -a : list all the branches and check the current branch.
+    git checkout <namebranch> : change to the branches you wanna work on.
+    git checkout -b <namebranch> : create new branch and go that branch.
+    git pull origin <namebranch>
+    git push origin <namebranch>
+
+
 
     git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git : To add a new remote repository to your local Git project
     git remote remove upstream
@@ -68,6 +70,9 @@
     git pull upstream main : To pull everything from upstream repository to your local Git project
 
     git log --merge : list all the commits casuing conflict
+## quick note on vs code merge conflict
+Accept current Change : accept what you currently have on your current branch
+Accept Incoming Change : accept what incoming from remote repo
 ## Git problem
 Problem:
 
@@ -108,6 +113,7 @@ solution:
              >>>>>>> origin
 
     3) Now you can do git add --all which add all your files to staging area, git commit -m"message" and git push
+    
 Problem:
     
     ! [rejected]        main -> main (non-fast-forward)
@@ -135,6 +141,8 @@ solution:
     2) git merge origin main
 
     3) git push
+
+    
 
 
     
