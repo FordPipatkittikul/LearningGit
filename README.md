@@ -71,6 +71,7 @@
 
     git log --merge : list all the commits casuing conflict
 ## quick note on vs code merge conflict
+
     Accept current Change : accept what you currently have on your current branch
     Accept Incoming Change : accept what incoming from remote repo
 ## Git problem
