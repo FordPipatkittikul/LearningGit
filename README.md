@@ -1,13 +1,14 @@
 # Git terminology
 
+
 ## Stages
-    working Directory
+    1) working Directory
     
-    Staging Area
+    2) Staging Area
     
-    Local Repositroy
+    3) Local Repositroy
     
-    Remote Repository.
+    4) Remote Repository.
 
 ![gitindex](https://github.com/FordPipatkittikul/LearningGit/assets/121902625/7d148ce8-73b6-49d9-a543-466ff028ad52)
 ## Basic command line for windows only
