@@ -11,7 +11,7 @@
     4) Remote Repository.
 
 ![gitindex](https://github.com/FordPipatkittikul/LearningGit/assets/121902625/7d148ce8-73b6-49d9-a543-466ff028ad52)
-## Basic command line for windows only
+## Basic command line for windows os
 
     cd <directory> : Change directory
     
